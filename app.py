@@ -5,8 +5,8 @@ About mass registration of tik tok accounts, tik tok likes, comments, tik tok la
 mass registration of tik tok accounts, tik tok likes, comments, tik tok latest version  tiktok API  login to the user by email and username register new device receive information of the user through user_id receive information about your authorized profile get list of user's subscribers get list of user's subscription
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
 
 # tiktok-mass-creator-accounts
 mass registration of tik tok accounts, tik tok likes, comments, tik tok latest version
@@ -37,5 +37,5 @@ mass registration of tik tok accounts, tik tok likes, comments, tik tok latest v
 
 
 ### contact me
-**Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
-## telegram: @Neo_Galaxy
+**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
+## telegram: @alethino
